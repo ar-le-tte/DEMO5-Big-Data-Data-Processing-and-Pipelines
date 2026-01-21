@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Spark
+data/checkpoint/
+*.crc
+
+# Data files (generated)
+data/incoming/
+
+# OS
+.DS_Store
+Thumbs.db

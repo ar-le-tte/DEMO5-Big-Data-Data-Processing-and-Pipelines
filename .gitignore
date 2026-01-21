@@ -2,14 +2,11 @@
 __pycache__/
 *.pyc
 .env
-
 # Spark
-data/checkpoint/
+**/data/checkpoint/
 *.crc
+# data
+**data/incoming/
 
-# Data files (generated)
-data/incoming/
-
-# OS
 .DS_Store
 Thumbs.db

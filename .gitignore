@@ -6,7 +6,9 @@ __pycache__/
 **/data/checkpoint/
 *.crc
 # data
-**data/incoming/
+data/
+*.parquet
 
+.vscode/
 .DS_Store
 Thumbs.db
